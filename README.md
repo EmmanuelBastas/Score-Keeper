@@ -5,7 +5,7 @@ Choose a winning score and track points until someone wins!
 
 ## 🚀 Live Demo
 
-📌 **[Live Demo: MyCV]()**
+📌 **[Live Demo: MyCV](https://emmanuelbastas.github.io/Score-Keeper/)**
 
 
 ## 🛠 Technologies Used
